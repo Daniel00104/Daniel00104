@@ -1,4 +1,227 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hey, I'm **Daniel**
+
+### 💻 Frontend Developer • Web Developer • Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Experiences;PHP+%7C+Laravel+Developer+in+Progress;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Daniel00104)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Frontend Developer** who enjoys transforming ideas
+into responsive, interactive, and user-friendly digital experiences.
+
+I'm constantly improving my development skills, exploring modern
+technologies, and building projects that solve real-world problems.
+
+* 🔭 Currently working on **web development projects**
+* 🌱 Currently learning **PHP & Laravel**
+* 💻 Focused on **Frontend & Full-Stack Development**
+* 🎨 Interested in **UI/UX and modern web design**
+* 🧠 Always learning and experimenting with new technologies
+* 🎯 Working towards becoming a **professional Full-Stack Developer**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 MetaBnB
+
+A modern NFT marketplace interface focused on creating a clean,
+responsive and engaging user experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React`
+
+</td>
+
+<td width="50%">
+
+### 🏥 Ekmora
+
+A hospital management system designed to help healthcare facilities
+manage their operations and improve efficiency.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 Portfolio Website
+
+A personal developer portfolio showcasing my skills, projects,
+experience and development journey.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects Coming
+
+I'm constantly building, experimenting and learning.
+
+Check back soon to see what I'm working on next!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daniel00104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel00104&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Daniel00104&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+Bootstrap
+     ↓
+PHP
+     ↓
+Laravel
+     ↓
+APIs & Databases
+     ↓
+Full-Stack Development 🚀
+```
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Become highly proficient in JavaScript
+* [ ] Master PHP & Laravel
+* [ ] Build more full-stack applications
+* [ ] Build and deploy real-world projects
+* [ ] Contribute to open-source projects
+* [ ] Grow my GitHub portfolio
+* [ ] Become a professional Full-Stack Developer
+
+---
+
+## 💡 What I Love Building
+
+```text
+🌐 Responsive Websites
+🖥️ Web Applications
+🎨 Modern UI Designs
+🏥 Management Systems
+📊 Data-Driven Applications
+🔌 APIs & Backend Systems
+🚀 Full-Stack Applications
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with other developers, collaborating
+on interesting projects, and learning from the developer community.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Daniel00104-181717?style=for-the-badge\&logo=github)](https://github.com/Daniel00104)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/okeke-chukwuemeka-9807a1304/))
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Code • Learn • Build • Repeat 🚀**
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
+
 
 <!--
 **Daniel00104/Daniel00104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
