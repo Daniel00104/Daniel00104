@@ -73,19 +73,30 @@ responsive and engaging user experience.
 
 <td width="50%">
 
-### 🏥 Ekmora
+### 🏠 Femish
 
-A hospital management system designed to help healthcare facilities
-manage their operations and improve efficiency.
+A Tech Inclined Online School focused on building skill,
+responsive and engaging user experience.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `PHP`
+`HTML` `CSS` `JavaScript` `React`
 
 </td>
-</tr>
 
-<tr>
+<td width="50%">
+
+### 🏠 Blueworld
+
+A Beauty and cosmetics company,
+responsive and engaging user experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React`
+
+</td>
+
 <td width="50%">
 
 ### 💼 Portfolio Website
