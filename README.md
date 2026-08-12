@@ -73,31 +73,7 @@ responsive and engaging user experience.
 
 <td width="50%">
 
-### 🏠 Femish
 
-A Tech Inclined Online School focused on building skill,
-responsive and engaging user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-</td>
-
-<td width="50%">
-
-### 🏠 Blueworld
-
-A Beauty and cosmetics company,
-responsive and engaging user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-</td>
-
-<td width="50%">
 
 ### 💼 Portfolio Website
 
@@ -112,7 +88,18 @@ experience and development journey.
 
 <td width="50%">
 
+### 🏠 Femish
 
+A Tech Inclined Online School focused on building skill,
+responsive and engaging user experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React`
+
+</td>
+
+<td width="50%">
 
 
 
