@@ -143,20 +143,6 @@ Check back soon to see what I'm working on next!
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm always open to connecting with other developers, collaborating
-on interesting projects, and learning from the developer community.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Daniel00104-181717?style=for-the-badge\&logo=github)](https://github.com/Daniel00104)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/okeke-chukwuemeka-9807a1304/))
-
-</div>
 
 ---
 
