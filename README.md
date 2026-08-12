@@ -54,37 +54,7 @@ technologies, and building projects that solve real-world problems.
 
 ---
 
-## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 MetaBnB
-
-A modern NFT marketplace interface focused on creating a clean,
-responsive and engaging user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-</td>
-
-<td width="50%">
-
-
-
-### 💼 Portfolio Website
-
-A personal developer portfolio showcasing my skills, projects,
-experience and development journey.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-</td>
 
 <td width="50%">
 
@@ -106,22 +76,7 @@ experience and development journey.
 
 ---
 
-## 💡 What I Love Building
 
-```text
-🌐 Responsive Websites
-🖥️ Web Applications
-🎨 Modern UI Designs
-🏥 Management Systems
-📊 Data-Driven Applications
-🔌 APIs & Backend Systems
-🚀 Full-Stack Applications
-```
-
----
-
-
----
 
 <div align="center">
 
