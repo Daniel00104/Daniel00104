@@ -112,17 +112,7 @@ experience and development journey.
 
 <td width="50%">
 
-### 🚀 More Projects Coming
 
-I'm constantly building, experimenting and learning.
-
-Check back soon to see what I'm working on next!
-
-</td>
-</tr>
-</table>
-
----
 
 
 
