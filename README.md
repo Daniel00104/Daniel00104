@@ -113,59 +113,7 @@ Check back soon to see what I'm working on next!
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daniel00104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel00104&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Daniel00104&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-Bootstrap
-     ↓
-PHP
-     ↓
-Laravel
-     ↓
-APIs & Databases
-     ↓
-Full-Stack Development 🚀
-```
-
-</div>
 
 ---
 
